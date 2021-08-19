@@ -1,0 +1,16 @@
+
+body{ background-color: white; 
+	
+	background-size: cover;
+	height:  800px;
+}
+
+
+
+.intro
+	{color: whitesmoke; font: 24px helvetica;
+	background-color: black; width: 1400px; height: 700px;}
+.cool_intro_text
+	{	color: black; font: 20px helvetica;
+		position:  absolute;
+		top: 250px; right: 100px;}
